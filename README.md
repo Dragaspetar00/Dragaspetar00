@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragaspetar00&label=Profile%20views&color=7b1cca&style=plastic" alt="dragaspetar00" /> </p>
 
 - 🔭 Kendimi test etmek için yaptığım basit web sayfaları. [Basic Web Pages](https://github.com/Dragaspetar00/Basic-Web-Pages)
-
+ 
 - 🌱 I’m currently learning **Php,Mysql,Unity,Blender,**
 
 - 👨‍💻 Tüm çalıştığım firmalar ve projelerimi görün [https://kodvarg.gt.tc/](https://kodvarg.gt.tc/)
