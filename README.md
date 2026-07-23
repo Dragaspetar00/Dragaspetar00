@@ -1,78 +1,46 @@
 <h1 align="center">Merhaba! Ben Kodvarg</h1>
-<h3 align="center">Frontend web tasarım, sistem yönetimi ve yazılım geliştirme odaklı bir geliştiriciyim.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kodvarg&label=Profil%20Ziyaretçisi&color=7b1cca&style=plastic" alt="Kodvarg" />
-</p>
+<h3 align="center">Frontend web tasarım ağırlıklı bir yazılımcıyım.</h3>
 
----
 
-### 💻 Hakkımda
-*  Html css js en çok bilgim olduğu alanlar
-*  Linux ortamları, Docker ve sunucu yönetimi / self-hosting konularıyla yakından ilgileniyorum.
-*  Donanım projeleri, Arduino tabanlı otomasyonlar ve retro sistemlerle vakit geçirmeyi seviyorum.
-*  Kendimce yazılar paylaştığım blog sitem: [kodvargblog.blogspot.com](https://kodvargblog.blogspot.com/)
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dragaspetar00&label=Profile%20views&color=7b1cca&style=plastic" alt="dragaspetar00" /> </p>
 
-### 🚀 Öne Çıkan Projelerim
-* **Drawest:** Tamamlanan ana dijital platform projemi
-* **Basic Web Pages:** Kendimi test etmek ve geliştirmek için hazırladığım basit web sayfaları deposu.
 
----
 
-### 🛠️ Kullandığım Dil ve Teknolojiler
+- 🔭 Kendimi test etmek için yaptığım basit web sayfaları. [Basic Web Pages](https://github.com/Dragaspetar00/Basic-Web-Pages)
+
+ 
+
+- 🌱 I’m currently learning **Php,Mysql,Unity,Blender,**
+
+
+
+- 📝 Kendimcene yazılar yazdığım bir blog sitem [https://kodvargblog.blogspot.com/](https://kodvargblog.blogspot.com/)
+
+
+
+- 📫 Bana Nasıl Ulaşabilirsiniz? **dragaspetar@protonmail.com**
+
+
+
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>
+
+<a href="https://instagram.com/kodvarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kodvarg" height="30" width="40" /></a>
+
+<a href="https://www.youtube.com/c/kodvarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kodvarg" height="30" width="40" /></a>
+
 </p>
 
----
 
-### 📊 GitHub İstatistikleri
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kodvarg&show_icons=true&locale=en&theme=transparent" alt="Kodvarg Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kodvarg&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
 
----
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-### 📫 Bana Nasıl Ulaşabilirsiniz?
-* **E-posta:** dragaspetar@protonmail.com
-* **Instagram:** [@kodvarg](https://instagram.com/kodvarg)
-* **YouTube:** [Kodvarg](https://www.youtube.com/c/kodvarg)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dragaspetar00&show_icons=true&locale=en&layout=compact" alt="dragaspetar00"/></p> 
+
