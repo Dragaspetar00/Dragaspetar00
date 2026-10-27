@@ -11,7 +11,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=dragaspetar00&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=7b1cca&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/github/followers/Dragaspetar00?style=for-the-badge&logo=github&color=7b1cca&labelColor=0d1117" alt="followers" />
-<img src="https://img.shields.io/github/stars/Dragaspetar00?style=for-the-badge&logo=github&color=7b1cca&labelColor=0d1117" alt="stars" />
+<img src="https://img.shields.io/github/stars/Dragaspetar00/Basic-Web-Pages?style=for-the-badge&logo=github&color=7b1cca&labelColor=0d1117" alt="stars" />
 
 </div>
 
@@ -69,7 +69,6 @@ const kodvarg = {
 |  **CSS** | ![](https://geps.dev/progress/100?dangerColor=7b1cca&warningColor=7b1cca&successColor=7b1cca) |
 |  **JavaScript** | ![](https://geps.dev/progress/20?dangerColor=7b1cca&warningColor=7b1cca&successColor=7b1cca) |
 
-
 </div>
 
 <br/>
@@ -99,11 +98,13 @@ const kodvarg = {
 
 <br/>
 
-## 🏆 Başarılar
+## 🏆 Rozetler
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dragaspetar00&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
+<a href="https://github.com/Dragaspetar00/Basic-Web-Pages"><img src="https://img.shields.io/github/last-commit/Dragaspetar00/Basic-Web-Pages?style=for-the-badge&logo=git&logoColor=white&label=Son%20Commit&color=7b1cca&labelColor=0d1117" alt="last commit" /></a>
+<a href="https://github.com/Dragaspetar00/Basic-Web-Pages"><img src="https://img.shields.io/github/languages/top/Dragaspetar00/Basic-Web-Pages?style=for-the-badge&label=En%20%C3%87ok%20Kullan%C4%B1lan&color=7b1cca&labelColor=0d1117" alt="top language" /></a>
+<a href="https://github.com/Dragaspetar00?tab=repositories"><img src="https://img.shields.io/badge/Hedef-Full%20Stack%20Developer-B66DFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117" alt="goal" /></a>
 
 </div>
 
