@@ -22,7 +22,7 @@
 ```js
 const kodvarg = {
   rol: "Frontend Web Tasarımcı / Geliştirici",
-  konum: "Istanbul, TR 🇹🇷",
+  konum: "İzmir, TR 🇹🇷",
   suAnOgreniyorum: ["PHP", "MySQL", "Unity", "Blender"],
   sevdigimIsler: ["Web tasarım", "Animasyonlar", "Oyun geliştirme", "3D modelleme"],
   motto: "Kendimi test ede ede gelişiyorum 🚀",
