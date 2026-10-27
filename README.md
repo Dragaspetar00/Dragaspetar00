@@ -61,10 +61,14 @@ const kodvarg = {
 
 | Teknoloji | Durum |
 |:---------:|:-----|
-| 🐘 **PHP** | ![](https://geps.dev/progress/40?dangerColor=7b1cca&warningColor=7b1cca&successColor=7b1cca) |
-| 🐬 **MySQL** | ![](https://geps.dev/progress/35?dangerColor=7b1cca&warningColor=7b1cca&successColor=7b1cca) |
-| 🎮 **Unity** | ![](https://geps.dev/progress/30?dangerColor=7b1cca&warningColor=7b1cca&successColor=7b1cca) |
-| 🧊 **Blender** | ![](https://geps.dev/progress/30?dangerColor=7b1cca&warningColor=7b1cca&successColor=7b1cca) |
+|  **PHP** | ![](https://geps.dev/progress/40?dangerColor=7b1cca&warningColor=7b1cca&successColor=7b1cca) |
+|  **MySQL** | ![](https://geps.dev/progress/100?dangerColor=7b1cca&warningColor=7b1cca&successColor=7b1cca) |
+|  **Unity** | ![](https://geps.dev/progress/10?dangerColor=7b1cca&warningColor=7b1cca&successColor=7b1cca) |
+|  **Blender** | ![](https://geps.dev/progress/5?dangerColor=7b1cca&warningColor=7b1cca&successColor=7b1cca) |
+|  **Html** | ![](https://geps.dev/progress/100?dangerColor=7b1cca&warningColor=7b1cca&successColor=7b1cca) |
+|  **CSS** | ![](https://geps.dev/progress/100?dangerColor=7b1cca&warningColor=7b1cca&successColor=7b1cca) |
+|  **JavaScript** | ![](https://geps.dev/progress/20?dangerColor=7b1cca&warningColor=7b1cca&successColor=7b1cca) |
+
 
 </div>
 
